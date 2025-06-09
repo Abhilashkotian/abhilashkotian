@@ -1,11 +1,8 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Abhilash+A+Kotian;Data+Science+Student+%7C+ML+Enthusiast;Actively+Looking+for+Internships!" alt="Typing SVG" />
-</p>
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Abhilashkotian/abhilashkotian/blob/main/github-header-image.png" width="3300" style="border-radius: 100%;" alt="Abhilash A Kotian" />
+  <img src="https://github.com/Abhilashkotian/abhilashkotian/blob/main/github-header-image.png?raw=true" width="600" style="border-radius: 50%;" alt="Abhilash A Kotian" />
 </p>
 
 # 🙋‍♂️ About Me
