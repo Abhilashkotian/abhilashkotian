@@ -2,7 +2,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://github.com/Abhilashkotian/abhilashkotian/blob/main/github-header-image.png?raw=true" width="600" style="border-radius: 50%;" alt="Abhilash A Kotian" />
+  <img src="https://github.com/Abhilashkotian/abhilashkotian/blob/main/github-header-image.png?raw=true" width="3300" style="border-radius: 50%;" alt="Abhilash A Kotian" />
 </p>
 
 # 🙋‍♂️ About Me
