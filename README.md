@@ -5,7 +5,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src=""C:\Users\asus\Downloads\github-header-image.png"" width="150" style="border-radius: 50%;" alt="Abhilash A Kotian">
+  <img src="C:\Users\asus\Downloads\github-header-image.png" width="150" style="border-radius: 50%;" alt="Abhilash A Kotian">
 </p>
 
 # 🙋‍♂️ About Me
