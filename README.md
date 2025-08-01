@@ -51,8 +51,8 @@ Manages placements, with chatbot & OCR support.
 
 ## 🏆 Achievements
 
-- ⭐ 300+ problems on [CodeChef](https://www.codechef.com/users/abhilash_ak)  
-- 💡 60+ problems on [LeetCode](https://leetcode.com/u/ABHILASH_A_KOTIAN/)  
+- ⭐ 400+ problems on [CodeChef](https://www.codechef.com/users/abhilash_ak)  
+- 💡 110+ problems on [LeetCode](https://leetcode.com/u/ABHILASH_A_KOTIAN/)  
 - 🏅 3★ in Python & SQL – [HackerRank](https://www.hackerrank.com/profile/4AL22CD003)  
 - 🧠 Secretary – AIET Department Forum  
 - 🎯 Volunteer – Tech Fest Core Team
