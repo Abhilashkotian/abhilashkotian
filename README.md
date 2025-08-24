@@ -7,7 +7,7 @@
 
 💻 **Aspiring Full Stack Developer** | 🚀 Passionate about **Web Development, Cloud & AI-driven Solutions**  
 🎓 3rd-year **B.E. Data Science student at AIET** (Computer Science & IT domain)  
-🌐 [**Portfolio**](https://abhilashkotian.github.io/portfolio/) | 📄 [**Resume**](https://drive.google.com/file/d/1VGQ_00eXEOcczifqBU0AM-yEyIvi5UyK/view)  
+🌐 [**Portfolio**](https://abhilashkotian.github.io/portfolio/) | 📄 [**Resume**](https://drive.google.com/file/d/1vH2kvoVRKHLQRLTYxG9J_1WSqAWDYeOg/view?usp=drive_link)  
 
 ---
 
